@@ -1,0 +1,3 @@
+@echo off
+echo Starting Attendance System Frontend...
+npm run dev
